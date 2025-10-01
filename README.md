@@ -1,8 +1,8 @@
 # React + Vite
-Ordering pizza with these tech:
-Redux toolkit
-React router for data
-Get current location
+Ordering pizza with these tech:</br>
+Redux toolkit</br>
+React router for data</br>
+Get current location</br>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
