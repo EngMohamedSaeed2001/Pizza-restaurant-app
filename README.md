@@ -3,6 +3,7 @@ Ordering pizza with these tech:</br>
 Redux toolkit</br>
 React router for data</br>
 Get current location</br>
+Styling with: Tailwind
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
